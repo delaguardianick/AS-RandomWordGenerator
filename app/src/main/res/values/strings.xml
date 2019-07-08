@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThirdApp</string>
+    <string name="word_list">mostCommonWords.txt</string>
+</resources>
